@@ -1,0 +1,5 @@
+{
+  "name": "Supabase Guess Number Master",
+  "description": "A high-stakes number guessing game (1-100) integrated with Supabase for real-time leaderboards and record tracking. Compete for the fastest time and fewest attempts!",
+  "requestFramePermissions": []
+}
